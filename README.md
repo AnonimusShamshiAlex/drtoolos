@@ -253,7 +253,7 @@
 3. Отправьте команду: /newbot
 4. Введите имя бота: DRTOOL Audio Bot
 5. Введите username: drtool_audio_bot
-6. Получите ТОКЕН → 🔑 8444193334:AAH6adrYZEg-id049jKtnl1sKkESuz25c4g
+6. Получите ТОКЕН → 🔑 You_Token
 ```
 
 ---
