@@ -28,10 +28,10 @@
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_RST);
 
 // ============ TELEGRAM ============
-#define WIFI_SSID "ESP_Test"
-#define WIFI_PASS "12345678"
-#define BOT_TOKEN "8444193334:AAH6adrYZEg-id049jKtnl1sKkESuz25c4g"
-#define CHAT_ID "5450100941"
+#define WIFI_SSID "ESP_Test" // You Wifi
+#define WIFI_PASS "12345678" // You password
+#define BOT_TOKEN " YOU_TOKEN_BOT"
+#define CHAT_ID "YOU_ID_TELEGRAM"
 
 // ============ АУДИО ============
 #define MIC_PIN 34
